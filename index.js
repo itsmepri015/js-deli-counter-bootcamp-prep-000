@@ -20,7 +20,7 @@ function nowServing(katzDeliLine)
   for(let i=0; i<katzDeliLine.length; i++)
   {
   
-<<<<<<< HEAD
+
    return "Currently serving " +katzDeliLine.shift()+"."
    
 =======
