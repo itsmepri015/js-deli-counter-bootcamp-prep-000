@@ -74,6 +74,6 @@ function currentLine(katzDeliLine){
   
   
 }
->>>>>>> f1431b8c38146bd3c5779d7c138981296a7fa5ba
+
 
 }
